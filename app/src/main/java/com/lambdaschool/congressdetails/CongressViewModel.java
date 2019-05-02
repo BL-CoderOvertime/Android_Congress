@@ -25,6 +25,6 @@ public class CongressViewModel {
 	}
 	
 	public void updateData(int index, int value){
-	//	data.setValue(repo.updateData(index, value));
+		data.setValue(repo.updateData(index, value));
 	}
 }
